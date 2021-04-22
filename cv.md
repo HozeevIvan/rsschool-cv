@@ -3,17 +3,17 @@
 ## Ivan Hozeev
 
 ###  Contacts:
-  * *email*: __ivanhozeev357@gmail.com__
-  * *phone*: __+ 375 33 345 27 67__
-  * *linkedIn*: __https://www.linkedin.com/in/ivan-hozeev-98206b192/__
+  * gmail: __ivanhozeev357@gmail.com__
+  * phone: __+ 375 33 345 27 67__
+  * LinkedIn: __https://www.linkedin.com/in/ivan-hozeev-98206b192/__
 
 ###  About me:
-   _At 22, I realized that I have a good brain on my shoulders (I am it). This got me to look for a better area to apply my abilities than the job of a cook/waiter, which I got into from the need to start earning for a living early on my own. Since then, I have been consistently moving towards my goal - to become a developer._
-_What do I want? Become a real expert and be absolutely in demand. To make products of the highest quality, complexity and beauty. Get surrounded by the smartest people in order to become better._
+   At 22, I realized that I have a good brain on my shoulders (I am it). This got me to look for a better area to apply my abilities than the job of a cook/waiter, which I got into from the need to start earning for a living early on my own. Since then, I have been consistently moving towards my goal - to become a developer.
+What do I want? Become a real expert and be absolutely in demand. To make products of the highest quality, complexity and beauty. Get surrounded by the smartest people in order to become better.
 
 ###  About my skills:
 #### _Hard_:  
-   * **Swift** programming lang 
+   * **Swift** 
    * **UIKit**
    * Layout & constraints **in code**
    * **Foundation**
